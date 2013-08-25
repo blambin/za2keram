@@ -62,5 +62,39 @@ yang IAG
 yae IAW
 ie IAW
 yae IAWI
+yaeu IAWU
+yaem IAWM
+yaen IAWN
+yaengIAWG
+yoe IO
+yoem IOM
+yoeng IOG
+yo IOW
+yom IOWM
+yong IOWG
+va UA
+vai UAI
+vau UAU
+vam UAM
+van UAN
+vang UAG
+uo UAW
+vae UAWI
+vaem UAWM
+vaen UAWN
+vaeng UAWG
+ve UVW
+veu UVWU
+vem UVWM
+ven UVWN
+veng UVWG
+uo UAW
+ue UAW
+ui UEI
+un UEN
+od UET
+vwi UEWI
+vwn UEWN
+
 
 
